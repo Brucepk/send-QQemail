@@ -12,7 +12,7 @@ from email.header import Header
 代码解析详见公众号「Python知识圈」：https://mp.weixin.qq.com/s/7DpV-bARh_V0C46j9Zs7og
  
 如有疑问或需转载，请联系微信号：dyw520520，备注来意，谢谢。
-如需加入python技术交流群，请加我微信，备注「进群」，我拉你进群，一起讨论交流，共同成长。
+如需加入python技术交流群，请加我微信，备注「进群」，我拉你进群，一起讨论交流，共同成长
 '''
  
 my_sender = 'xxx@qq.com'     # 发件人邮箱账号
